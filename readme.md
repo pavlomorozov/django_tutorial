@@ -1,4 +1,6 @@
-Simple Django Tutorial project
+# Simple Django Tutorial project
+
+## Setup
 
 This project intended to be started in virtual environment. To run it use:
 
@@ -19,6 +21,8 @@ To exit venv use:
 Django can be started with:
 
     python manage.py runserver
+
+## Runtime
 
 Two links available:
 
