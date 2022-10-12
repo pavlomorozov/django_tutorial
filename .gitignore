@@ -1,2 +1,4 @@
 venv/
 .idea/
+db_password.txt
+db_user.txt
